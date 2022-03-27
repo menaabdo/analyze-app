@@ -1,0 +1,1 @@
+<a  style='text-align:right; float:right' href='{{$url}}'>اليك هذا الفايل بناء علي ما تم اختياره</a>
